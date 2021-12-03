@@ -116,14 +116,7 @@
   </url>
   
   <url>
-    <loc>http://zhuyuezy.github.io/tags/Objective-C/</loc>
-    <lastmod>2021-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhuyuezy.github.io/tags/hook/</loc>
+    <loc>http://zhuyuezy.github.io/tags/hexo/</loc>
     <lastmod>2021-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -151,6 +144,20 @@
   </url>
   
   <url>
+    <loc>http://zhuyuezy.github.io/tags/Objective-C/</loc>
+    <lastmod>2021-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhuyuezy.github.io/tags/hook/</loc>
+    <lastmod>2021-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zhuyuezy.github.io/tags/linux/</loc>
     <lastmod>2021-12-03</lastmod>
     <changefreq>daily</changefreq>
@@ -159,13 +166,6 @@
   
   <url>
     <loc>http://zhuyuezy.github.io/tags/%E4%BB%A3%E7%90%86/</loc>
-    <lastmod>2021-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhuyuezy.github.io/tags/hexo/</loc>
     <lastmod>2021-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -195,7 +195,7 @@
   </url>
   
   <url>
-    <loc>http://zhuyuezy.github.io/categories/objective-c%E5%9F%BA%E7%A1%80/</loc>
+    <loc>http://zhuyuezy.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2021-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -209,14 +209,14 @@
   </url>
   
   <url>
-    <loc>http://zhuyuezy.github.io/categories/linux/</loc>
+    <loc>http://zhuyuezy.github.io/categories/objective-c%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2021-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://zhuyuezy.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
+    <loc>http://zhuyuezy.github.io/categories/linux/</loc>
     <lastmod>2021-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
