@@ -6,7 +6,7 @@
   <link href="http://zhuyuezy.github.io/atom.xml" rel="self"/>
   
   <link href="http://zhuyuezy.github.io/"/>
-  <updated>2021-12-03T14:36:05.948Z</updated>
+  <updated>2020-09-28T02:33:42.847Z</updated>
   <id>http://zhuyuezy.github.io/</id>
   
   <author>
@@ -15,23 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>跑路日记</title>
-    <link href="http://zhuyuezy.github.io/2021/12/03/%E8%B7%91%E8%B7%AF%E6%97%A5%E8%AE%B0/"/>
-    <id>http://zhuyuezy.github.io/2021/12/03/%E8%B7%91%E8%B7%AF%E6%97%A5%E8%AE%B0/</id>
-    <published>2021-12-03T14:21:03.000Z</published>
-    <updated>2021-12-03T14:36:05.948Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是一篇没有营养的跑路日记，记录我从决定跑路到最终成功跑路（希望）的过程。</p><a id="more"></a><p>2021.12.3</p><p>在半个月无休、近一周无正常睡眠之后，我决定跑路。</p><p>毕业后入职现单位已经近一年五个月，从最初的好奇、信心满满到现在的疲惫、迷茫。工作累不是问题，又累又没希望最为致命。转头看看部门老员工，再干几年还是一样，无休止的加班，难以得到的正常节假日，永远的7x24待命。</p><p>我得跑。</p><p>再也不要做运维了，我要睡觉。</p><p>盘点一下现存技能，sql经常使用还算熟练，有时候写点python脚本方便自己工作，oc和c已经不记得了。已跟男友约好一天不学习转他100，加班到深夜除外，希望不要变成他月收+3000。就从把python再次学起来开始吧，争取年后能成功跑路。</p><p>！！跑路！！我要睡觉！！</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;这是一篇没有营养的跑路日记，记录我从决定跑路到最终成功跑路（希望）的过程。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Python 3 读取文件错误：UnicodeDecodeError</title>
@@ -77,9 +60,9 @@
     <category term="网络" scheme="http://zhuyuezy.github.io/categories/网络/"/>
     
     
-    <category term="Tor" scheme="http://zhuyuezy.github.io/tags/Tor/"/>
-    
     <category term="网络" scheme="http://zhuyuezy.github.io/tags/网络/"/>
+    
+    <category term="Tor" scheme="http://zhuyuezy.github.io/tags/Tor/"/>
     
     <category term="匿名" scheme="http://zhuyuezy.github.io/tags/匿名/"/>
     
@@ -105,9 +88,9 @@
     <category term="网络" scheme="http://zhuyuezy.github.io/categories/网络/"/>
     
     
-    <category term="网络" scheme="http://zhuyuezy.github.io/tags/网络/"/>
-    
     <category term="linux" scheme="http://zhuyuezy.github.io/tags/linux/"/>
+    
+    <category term="网络" scheme="http://zhuyuezy.github.io/tags/网络/"/>
     
     <category term="代理" scheme="http://zhuyuezy.github.io/tags/代理/"/>
     
